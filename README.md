@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#Project Screenshots
+1.Landing Page:
+![1](https://github.com/mxdxt09/Twik-Disney-clone/assets/83859258/a6c89d6b-6a39-4c4c-8bb6-ac5932e9a03a)
+
+
+2. Login Page:
+Credentials required to access the users acount.
+![loginPage](https://github.com/mxdxt09/Twik-Disney-clone/assets/83859258/a90d93a5-fc73-4694-bfc1-39ebf76b6167)
+
+3.Home Page:
+Home page has the list of movies, series and serials.
+![homePage](https://github.com/mxdxt09/Twik-Disney-clone/assets/83859258/2fd28ee9-09ee-4810-9ed5-bb26033f1d4e)
+
