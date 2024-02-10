@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-#Project Screenshots
+## Project Screenshots
 1.Landing Page:
 ![1](https://github.com/mxdxt09/Twik-Disney-clone/assets/83859258/a6c89d6b-6a39-4c4c-8bb6-ac5932e9a03a)
 
